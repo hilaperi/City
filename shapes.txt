@@ -1,0 +1,24 @@
+h living 150 285 53 27
+h living 245 285 53 27
+h living 340 285 53 27
+h living 357 215 53 27
+h living 357 150 53 27
+h living 158 184 88 103
+h industry 56 230 30 30
+h industry 56 185 30 30
+h industry 56 140 30 30
+h industry 140 70 30 30
+h industry 190 70 30 30
+h industry 240 70 30 30
+h industry 310 70 30 30
+h industry 360 70 30 30
+h industry 440 210 30 55
+h office 440 150 30 55
+h office 23 23 30 30
+h rent 260 184 88 103
+s 470 180 10 150
+s 280 110 390 10
+s 280 250 390 10
+s 410 170 10 295
+s 245 312 320 10
+s 90 170 10 295

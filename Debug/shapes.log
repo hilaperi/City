@@ -1,0 +1,12 @@
+﻿  shapes.c
+c:\users\spr_hilap\desktop\לימודים\שנה ב'\סמסטר ב'\c\shapes\shapes\shapes.c(82): warning C4133: '=': incompatible types - from 'RCT *' to 'RCTSTREET *'
+c:\users\spr_hilap\desktop\לימודים\שנה ב'\סמסטר ב'\c\shapes\shapes\shapes.c(86): warning C4133: 'function': incompatible types - from 'RCTSTREET *' to 'RCT *'
+c:\users\spr_hilap\desktop\לימודים\שנה ב'\סמסטר ב'\c\shapes\shapes\shapes.c(272): warning C4133: '=': incompatible types - from 'RCTSTREET *' to 'RCT *'
+c:\users\spr_hilap\desktop\לימודים\שנה ב'\סמסטר ב'\c\shapes\shapes\shapes.c(349): warning C4133: '=': incompatible types - from 'RCT *' to 'NODESTR *'
+c:\users\spr_hilap\desktop\לימודים\שנה ב'\סמסטר ב'\c\shapes\shapes\shapes.c(356): warning C4133: '=': incompatible types - from 'RCT *' to 'nodeSTR *'
+c:\users\spr_hilap\desktop\לימודים\שנה ב'\סמסטר ב'\c\shapes\shapes\shapes.c(373): warning C4133: '=': incompatible types - from 'RCT *' to 'NODERCT *'
+c:\users\spr_hilap\desktop\לימודים\שנה ב'\סמסטר ב'\c\shapes\shapes\shapes.c(380): warning C4133: '=': incompatible types - from 'RCT *' to 'nodeRCT *'
+c:\users\spr_hilap\desktop\לימודים\שנה ב'\סמסטר ב'\c\shapes\shapes\shapes.c(396): warning C4133: '=': incompatible types - from 'CIRCLE *' to 'NODECRL *'
+c:\users\spr_hilap\desktop\לימודים\שנה ב'\סמסטר ב'\c\shapes\shapes\shapes.c(403): warning C4133: '=': incompatible types - from 'CIRCLE *' to 'nodeCRL *'
+  shapes.vcxproj -> C:\Users\spr_hilap\Desktop\לימודים\שנה ב'\סמסטר ב'\C\shapes\Debug\shapes.exe
+  shapes.vcxproj -> C:\Users\spr_hilap\Desktop\לימודים\שנה ב'\סמסטר ב'\C\shapes\Debug\shapes.pdb (Full PDB)
